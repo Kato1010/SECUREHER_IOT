@@ -4,13 +4,24 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Secure Her
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: 
+<a href="https://www.linkedin.com/in/ana-flavia-lor%C3%AAdo-9629b5210/">Ana Flavia Ribeiro Loredo dos Santos</a> <br>
+<a href="https://www.linkedin.com/in/fernanda-mayumi-kuba-435181a9/">Fernanda Mayumi Kuba Kato</a> <br>
+<a href="https://www.linkedin.com/in/kevinmakotos/">Kevin Makoto Shiroma</a> <br>
+<a href="https://www.linkedin.com/in/renato-kato-09b86482/">Renato Riichi Kato/a> <br>
+<a href="">Vinicius Massao Kato </a> <br>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+
+                                                                                                            
+
+## Professores Orientadores: 
+  <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, 
+  <a href="https://br.linkedin.com/in/eduardo-savino-gomes-77833a10?original_referer=https%3A%2F%2Fwww.google.com%2F">Eduardo Savino Gomes</a>,
+  <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix valente</a>, 
 
 ## Descrição
 
