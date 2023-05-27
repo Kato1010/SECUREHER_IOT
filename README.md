@@ -6,7 +6,7 @@
 
 # Secure Her
 
-## Nome do Grupo
+## Security Corp.
 
 ## Integrantes: 
 <a href="https://www.linkedin.com/in/ana-flavia-lor%C3%AAdo-9629b5210/">Ana Flavia Ribeiro Loredo dos Santos</a> <br>
