@@ -19,9 +19,9 @@
                                                                                                             
 
 ## Professores Orientadores: 
-  <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, 
-  <a href="https://br.linkedin.com/in/eduardo-savino-gomes-77833a10?original_referer=https%3A%2F%2Fwww.google.com%2F">Eduardo Savino Gomes</a>,
-  <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix valente</a>, 
+  <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a> <br>
+  <a href="https://br.linkedin.com/in/eduardo-savino-gomes-77833a10?original_referer=https%3A%2F%2Fwww.google.com%2F">Eduardo Savino Gomes</a> <br>
+  <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix valente</a> <br>
 
 ## Descrição
 
