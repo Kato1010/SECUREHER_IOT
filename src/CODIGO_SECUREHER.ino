@@ -8,7 +8,7 @@ int valorBotao = 0;
 
 void setup()
 {
-  SerialBT.begin("SECURE HER TEST");
+  SerialBT.begin("SECURE HER");
   pinMode(botao, INPUT_PULLUP);
   pinMode(led, OUTPUT);
   Serial.begin(115200);
