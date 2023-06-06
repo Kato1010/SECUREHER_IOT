@@ -4,9 +4,8 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Secure Her
+# Projeto Secure Her
 
-## Security Corp.
 
 ## Integrantes: 
 <a href="https://www.linkedin.com/in/ana-flavia-lor%C3%AAdo-9629b5210/">Ana Flavia Ribeiro Loredo dos Santos</a> <br>
@@ -30,13 +29,26 @@
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
+### Resumo do Projeto: <br><br>
+ 
+<p> Um projeto voltado para o tema Igualdade de gênero (Objetivo de Desenvolvimento Sustentável nº 5 da ONU), a qual a mulher utilizará um dispositivo IoT vestível para sua segurança pessoal. </P
+<p> Este objeto possuirá um <u>botão</u> que ao ser pressionado 3 vezes disparará uma mensagem de socorro em situações de perigo iminente. </P>
+<p> O dispositivo terá GPS integrado e quando disparado enviará uma notificação informando:  </p>
+<ul>
+    <li> Uma empresa de segurança que possuirá acesso ao banco de dados sobre local e horário onde o botão foi pressionado. </li>
+    <li> Contatos de emergência da mulher, independente da distância. </li>
+</ul>
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+<p>  Através do gps o app pode gerar relatórios dos locais que tenha maior incidência de ocorrências, com a finalidade de ajudar a população evitando áreas de risco e auxiliar a polícia para reforçar a segurança desses locais. </p>
+
+### Sensores e Autuadores:  <br><br>
+<ul> 
+    <li> Chave Táctil KFC-A06 - 6 X 6 X 4,3mm - 4 Terminais </li>
+    <li> 2 Resistores 220Ω </li>
+    <li> 5 Jumpers macho/macho </li>
+    <li> 1 LED </li>
+</ul>
+
 
 ## 🛠 Estrutura de pastas
 
@@ -73,7 +85,7 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>Android:</b>
 
-Faça o Download do JOGO.apk no seu celular.
+Faça o Download do secureher.apk no seu celular.
 Execute o APK e siga as instruções de seu telefone.
 
 ```sh
