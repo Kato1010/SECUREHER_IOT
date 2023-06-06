@@ -49,6 +49,7 @@
     <li> 1 LED </li>
 </ul>
 
+<p> <a href="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/esquema_secure_her.PNG" > Clique aqui para ver a modelagem do projeto </a> <p>
 
 ## 🛠 Estrutura de pastas
 
@@ -67,19 +68,20 @@
   &emsp;|-->Frontend<br>
 |readme.md<br>
 
-A pasta raiz contem dois arquivos que devem ser alterados:
+ <!--            A pasta raiz contem dois arquivos que devem ser alterados:
 
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
+                <b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
 
-Há também 4 pastas que seguem da seguinte forma:
+                Há também 4 pastas que seguem da seguinte forma:
 
-<b>documentos</b>: Toda a documentação estará nesta pasta.
+                <b>documentos</b>: Toda a documentação estará nesta pasta.
 
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
+                <b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
 
-<b>imagens</b>: Imagens do sistema
+                <b>imagens</b>: Imagens do sistema
 
-<b>src</b>: Pasta que contém o código fonte.
+                <b>src</b>: Pasta que contém o código fonte.
+ -->
 
 ## 🛠 Instalação
 
@@ -92,19 +94,22 @@ Execute o APK e siga as instruções de seu telefone.
 Coloque código do prompt de comnando se for necessário
 ```
 
-<b>Windows:</b>
+<!-- 
+              <b>Windows:</b>
 
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+            Não há instalação! Apenas executável!
+            Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
+            ```sh
+            Coloque código do prompt de comnando se for necessário
+            ```
 
-<b>HTML:</b>
+            <b>HTML:</b>
 
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+            Não há instalação!
+            Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+
+-->
 
 ## 💻 Configuração para Desenvolvimento
 
