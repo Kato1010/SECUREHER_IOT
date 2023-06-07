@@ -73,7 +73,7 @@
   <li> Tela de como utilizar o app. </li>    
   </ol>
   
-  <p> As telas 2, 3, 4, 5, 6, 7 e 8 possuem integração com o banco de dados MySQL através de scripts com a linguagem PHP. </p> 
+  <p> As telas 2, 3, 4, 5, 6, 7 e 9 possuem integração com o banco de dados MySQL através de scripts com a linguagem PHP. </p> 
   
  <a href="https://github.com/2023-1-NADS1/B02-SecureHer/tree/main/src/Backend"> Clique aqui e veja os scripts na linguagem PHP </a> <br><br>
   
