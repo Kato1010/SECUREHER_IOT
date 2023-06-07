@@ -31,13 +31,13 @@
 
 ### Resumo do Projeto: <br><br>
  
-<p> Um projeto voltado para o 5º tema Igualdade de gênero (Objetivo de Desenvolvimento Sustentável da ONU), a qual a mulher utilizará um dispositivo IoT vestível para sua segurança pessoal. </P>
-<p> Além disso, nosso projeto também está alinhado ao 11º Objetivo de Desenvolvimento Sustentável – Cidades e Comunidades Sustentáveis, buscando criar um ambiente urbano seguro e inclusivo para as mulheres. Implementaremos medidas para prevenir e combater a violência nas cidades. </p>
-<p> Este objeto possuirá um botão que ao ser pressionado 3 vezes disparará uma mensagem de socorro em situações de perigo iminente. </p>
+<p> Um projeto voltado para o <b>5º Objetivo da ONU(Igualdade de gênero)</b> e o <b>11º Objetivo(Cidades e Comunidades Sustentáveis)</b>, a qual a mulher utilizará um dispositivo IoT vestível para sua segurança pessoal e buscando criar um ambiente urbano seguro e inclusivo para as mulheres, implementando medidas para prevenir e combater a violência nas cidades.</p> <br>
+
+<p> Este dispositivo vestível possuirá um botão que ao ser pressionado <b>3 vezes</b> disparará uma mensagem de socorro em situações de perigo iminente. </p>
 <p>Será utilizado o GPS do próprio celular e quando disparado enviará uma notificação informando <b>contatos de emergência da mulher sobre o local e horário sobre onde o botão foi pressionado, independente da distância</b>. </p>
 
  
-<p>  Através do gps o app pode gerar relatórios dos locais que tenha maior incidência de ocorrências, com a finalidade de ajudar a população evitando áreas de risco e auxiliar a polícia para reforçar a segurança desses locais. </p>
+<p> Através do GPS o app pode gerar relatórios dos locais que tenha maior incidência de ocorrências, com a finalidade de ajudar a população evitando áreas de risco e auxiliar a polícia para reforçar a segurança desses locais. </p>
 
 ### Sensores e Atuadores:  <br><br>
 <ul> 
@@ -108,9 +108,9 @@
    
    <p> Com o botão do pânico acionado, a mensagem "botão do pânico foi acionado" deve ser enviada via bluetooth e recebida pelo APP, mostrando a mensagem, o horário e o endereço do acionamento do botão </p>
 
-   <p> Além disso, o app liga para o contato de emergência sozinho, após o acionamento do botão. </p>
+   <p> Além disso, o app liga para o contato de emergência e envia um SMS sozinho(com o endereço de ocorrência), após o acionamento do botão. </p>
    
-   <p> A ideia é a mulher avisar o contato de emergência que sairá para algum lugar perigoso e caso haja uma ligação por parte dela é possível que ela esteja em perigo. É claro que em situações de perigo ela não conseguirá falar ao telefone, por isso é importante a comunicação com seu contato de emergência que ao receber uma ligação e não sair nenhuma voz é possível que ela esteja em perigo. </p>
+   <p> O objetivo do projeto é a mulher avisar o contato de emergência que sairá para algum lugar perigoso e caso haja uma ligação por parte dela é possível que ela esteja em perigo. É claro que em situações de perigo ela não conseguirá falar ao telefone, por isso é importante a comunicação com seu contato de emergência que ao receber uma ligação e não sair nenhuma voz é possível que ela esteja em perigo e lembrar que um SMS de ocorrência pode ser enviado. </p>
 
 ![Funcionamento do APP](https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/Modelagem%20Wokwi/SecureHer.gif?raw=true)
 
