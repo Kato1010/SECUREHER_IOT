@@ -25,13 +25,14 @@
 ## Descrição
 
 <p align="center">
-<img src="https://secureher.tech/wp-content/uploads/2023/05/cropped-SecureH.png" border="0"> <br>
+<img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/secureH.png" border="0"> <br>
   Projeto Interdisciplinar IoT  <a href="https://secureher.tech/">
 </p>
 
 ### Resumo do Projeto: <br><br>
  
-<p> Um projeto voltado para o tema Igualdade de gênero (Objetivo de Desenvolvimento Sustentável nº 5 da ONU), a qual a mulher utilizará um dispositivo IoT vestível para sua segurança pessoal. </P
+<p> Um projeto voltado para o tema Igualdade de gênero (Objetivo de Desenvolvimento Sustentável nº 5 da ONU), a qual a mulher utilizará um dispositivo IoT vestível para sua segurança pessoal. </P>
+<p> Além disso, nosso projeto está alinhado ao 11º Objetivo de Desenvolvimento Sustentável – Cidades e Comunidades Sustentáveis, buscando criar um ambiente urbano seguro e inclusivo para as mulheres. Implementaremos medidas para prevenir e combater a violência nas cidades. </p>
 <p> Este objeto possuirá um <u>botão</u> que ao ser pressionado 3 vezes disparará uma mensagem de socorro em situações de perigo iminente. </P>
 <p> O dispositivo terá GPS integrado e quando disparado enviará uma notificação informando:  </p>
 <ul>
