@@ -105,7 +105,7 @@ Coloque código do prompt de comnando se for necessário
             Não há instalação!
             Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
--->
+
 
 ## 💻 Configuração para Desenvolvimento
 
@@ -120,7 +120,8 @@ make install
 npm test
 Coloque código do prompt de comnando se for necessário
 ```
-
+-->
+  
 ## 🗃 Histórico de lançamentos
 
 A cada atualização os detalhes devem ser lançados aqui.
@@ -145,8 +146,9 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
+1. <https://randomnerdtutorials.com/esp32-bluetooth-classic-arduino-ide/>
 2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://creativecommons.org/share-your-work/>
-4. <https://freesound.org/>
-5. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+3. <https://www.canva.com/>
+4. <https://appinventor.mit.edu/>
+5. <https://www.youtube.com/watch?v=UpZjOAwugBU&list=PLx4x_zx8csUjl2tMSl-Ml9HhzAis6iOLP&ab_channel=CFBCursos>
+6. <https://www.youtube.com/watch?v=BT4YihNXiYw&list=PL7sbjUYIdF3Ux_UrRiBaC73OrJLvLza4u&ab_channel=TheCodingBus>
