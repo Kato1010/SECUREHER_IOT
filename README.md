@@ -25,7 +25,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/secureH.png" border="0"> <br>
+<img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/Logotipo/secureH.png?raw=true" border="0"> <br>
   Projeto Interdisciplinar IoT  <a href="https://secureher.tech/">
 </p>
 
