@@ -67,6 +67,7 @@
   <li> Tela de alteração da nova senha; </li>
   <li> Tela de utilização do APP com o arduino; </li>
   <li> Tela de perfil, onde são mostrados os dados de cadastro; </li>
+  <li> Tela de configuração; </li>
   <li> Tela de alteração de cadastro; </li>
   <li> Tela de contato e </li>
   <li> Tela de como utilizar o app. </li>    
