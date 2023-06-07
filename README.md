@@ -60,10 +60,14 @@
   &emsp;|-->antigos<br>
   &emsp;|Documentação.docx<br>
 |-->imagens<br>
+   &emsp;|-->Logotipo<br>
+  &emsp;|-->Modelagem Wokwi<br>
+  &emsp;|-->Modelo 3d case<br>
 |-->src<br>
   &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
+  &emsp;|-->Código Arduino ESP 32<br>
+  &emsp;|-->Prototipagem 3d<br>
+|README.md<br>
 
  <!--            A pasta raiz contem dois arquivos que devem ser alterados:
 
