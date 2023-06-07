@@ -107,9 +107,9 @@
    
    ![Acionamento do dispositivo](https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/Modelagem%20Wokwi/giphy.gif?raw=true)
    
-   <p> Com o botão do pânico acionado, a mensagem "botão do pânico foi acionado" deve ser enviada via bluetooth e recebida pelo APP, mostrando a mensagem, o horário e o endereço do acionamento do botão </p>
+   <p> Com o botão do pânico acionado, a mensagem "botão do pânico foi acionado" deve ser enviada via bluetooth e recebida pelo APP, mostrando a mensagem, o horário e o endereço do acionamento do botão. </p>
 
-   <p> Além disso, o app liga para o contato de emergência e envia um SMS sozinho(com o endereço de ocorrência), após o acionamento do botão. </p>
+   <p> Além disso, o app liga para o contato de emergência e envia um SMS sozinho(com o endereço de ocorrência), após o acionamento do mesmo. </p>
    
    <p> O objetivo do projeto é a mulher avisar o contato de emergência que sairá para algum lugar perigoso e caso haja uma ligação por parte dela é possível que ela esteja em perigo. É claro que em situações de perigo ela não conseguirá falar ao telefone, por isso é importante a comunicação com seu contato de emergência que ao receber uma ligação e não sair nenhuma voz é possível que ela esteja em perigo e lembrar que um SMS de ocorrência pode ser enviado. </p>
 
