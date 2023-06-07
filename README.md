@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/ana-flavia-lor%C3%AAdo-9629b5210/">Ana Flavia Ribeiro Loredo dos Santos</a> <br>
 <a href="https://www.linkedin.com/in/fernanda-mayumi-kuba-kato/">Fernanda Mayumi Kuba Kato</a> <br>
 <a href="https://www.linkedin.com/in/kevinmakotos/">Kevin Makoto Shiroma</a> <br>
-<a href="https://www.linkedin.com/in/renato-kato-09b86482/">Renato Riichi Kato </a> <br>
+<a href="https://www.linkedin.com/in/renato-riichi-kato-09b86482/">Renato Riichi Kato </a> <br>
 <a href="https://www.linkedin.com/in/massao-kato%EF%BC%88%E3%83%88%E3%83%88%E3%83%AD%EF%BC%89-1aa869278/">Vinicius Massao Kato </a> <br>
 
 
