@@ -32,13 +32,11 @@
 ### Resumo do Projeto: <br><br>
  
 <p> Um projeto voltado para o 5º tema Igualdade de gênero (Objetivo de Desenvolvimento Sustentável da ONU), a qual a mulher utilizará um dispositivo IoT vestível para sua segurança pessoal. </P>
-<p> Além disso, nosso projeto está alinhado ao 11º Objetivo de Desenvolvimento Sustentável – Cidades e Comunidades Sustentáveis, buscando criar um ambiente urbano seguro e inclusivo para as mulheres. Implementaremos medidas para prevenir e combater a violência nas cidades. </p>
-<p> Este objeto possuirá um <u>botão</u> que ao ser pressionado 3 vezes disparará uma mensagem de socorro em situações de perigo iminente. </p>
-<p>Será utilizado o GPS do próprio celular e quando disparado enviará uma notificação informando: <b>Contatos de emergência da mulher sobre o local e horário onde o botão foi pressionado, independente da distância</b>. </p>
+<p> Além disso, nosso projeto também está alinhado ao 11º Objetivo de Desenvolvimento Sustentável – Cidades e Comunidades Sustentáveis, buscando criar um ambiente urbano seguro e inclusivo para as mulheres. Implementaremos medidas para prevenir e combater a violência nas cidades. </p>
+<p> Este objeto possuirá um botão que ao ser pressionado 3 vezes disparará uma mensagem de socorro em situações de perigo iminente. </p>
+<p>Será utilizado o GPS do próprio celular e quando disparado enviará uma notificação informando <b>contatos de emergência da mulher sobre o local e horário onde o botão foi pressionado, independente da distância</b>. </p>
 
  
-
-
 <p>  Através do gps o app pode gerar relatórios dos locais que tenha maior incidência de ocorrências, com a finalidade de ajudar a população evitando áreas de risco e auxiliar a polícia para reforçar a segurança desses locais. </p>
 
 ### Sensores e Atuadores:  <br><br>
@@ -50,8 +48,58 @@
     <li> 1 LED </li>
 </ul>
 
-<p> <a href="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/esquema_secure_her.PNG" > Clique aqui para ver a modelagem do projeto </a> <p>
+<p> <a href="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/Modelagem%20Wokwi/esquema_secure_her.PNG" > Clique aqui para ver a modelagem do projeto </a> <p> <br>
+  
+  ### Arduino:  <br><br>
+  <p> Foi utilizado o microcontrolador ESP-32 WROOM-32D, pois foi necessária a utilização do bluetooth, junto com o app criado no MIT APP INVENTOR <p>
 
+  <p> <a href="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/src/C%C3%B3digo%20Arduino%20ESP%2032/CODIGO_SECUREHER.ino" > Clique aqui para ver o código arduino programado em C++ </a> <p> <br><br>
+    
+  ### MIT APP INVENTOR  <br><br>
+    
+  <p> O app foi criado do zero por meio do <a href="https://appinventor.mit.edu/">MIT APP INVENTOR</a> com 11 telas criadas para simular o mais próximo de um produto no mercado. As telas criadas são: </p>
+    
+  <ol>
+  <li> Tela de carregamento inicial do app; </li>
+  <li> Tela de login; </li>
+  <li> Tela de cadastro do usuário; </li>
+  <li> Tela de recuperação de senha; </li>
+  <li> Tela de alteração da nova senha; </li>
+  <li> Tela de utilização do APP com o arduino; </li>
+  <li> Tela de perfil, onde são mostrados os dados de cadastro; </li>
+  <li> Tela de alteração de cadastro; </li>
+  <li> Tela de contato e </li>
+  <li> Tela de como utilizar o app. </li>    
+  </ol>
+  
+  <p> As telas 2, 3, 4, 5, 6, 7 e 8 possuem integração com o banco de dados MySQL através de scripts com a linguagem PHP. </p> <br><br>
+  
+  ### Domínio e Hospedagem <br><br>
+  
+  <p> Foram contratados uma hospedagem e um domínio para a facilitação do uso das ferrramentas entre os integrantes do grupo e tornar o projeto mais próximo possível de um produto no mercado. </p>
+  <p> Para viabilizar financeiramente foram contratados um domínio de extensão .tech e uma hospedagem compartilhada. O domínio utilizado é o <a href="https://secureher.tech">secureher.tech</a>.
+  <p> Com a hospedagem, foi possível a utilização de um banco de dados MySQL e todas as informações inseridas no app foram colocadas dentro deste banco. </p>
+  
+  <br><br>
+  
+   ### Banco de Dados <br><br>
+    
+   <p> Foram criadas duas tabelas denominadas CLIENTES e OCORRENCIA.</p>
+   
+   <p> Na tabela CLIENTES foi utilizada a seguinte estrutura: </p><br>
+  <img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/Banco%20de%20Dados/CLIENTES.PNG?raw=true" width= 500px height= 300px> <br>
+  
+  <p> Onde o CPF foi utilizada como PRIMARY KEY da tabela e o email como UNIQUE, para evitar duplicidade de cadastros. </p>
+  <p> É de conhecimento do grupo que a tabela NÃO respeita as formas normais, porém, como o foco do projeto é o IoT e o APP, deixamos a tabela desta forma. </p>
+  
+   <p> E para a tabela OCORRENCIA foi utilizada a seguinte estrutura: </p><br>
+  <img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/Banco%20de%20Dados/OCORRENCIA.PNG?raw=true" > <br>
+  
+  <p> Onde o IDOCORRENCIA foi utilizada como PRIMARY KEY da tabela. </p>
+  <p> Além disso, colocamos que a FK_CLIENTES é a FOREIGN KEY, ligando as tabelas CLIENTES e OCORRENCIA por meio do CPF. </p> <br><br>
+    
+    
+    
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
