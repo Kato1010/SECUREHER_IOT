@@ -113,6 +113,12 @@
    <p> A ideia é a mulher avisar o contato de emergência que sairá para algum lugar perigoso e caso haja uma ligação por parte dela é possível que ela esteja em perigo. É claro que em situações de perigo ela não conseguirá falar ao telefone, por isso é importante a comunicação com seu contato de emergência que ao receber uma ligação e não sair nenhuma voz é possível que ela esteja em perigo. </p>
 
 ![Funcionamento do APP](https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/Modelagem%20Wokwi/SecureHer.gif?raw=true)
+
+<p> Assim, os dados são enviados ao Banco de dados: </p> <br>
+
+ <img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/Banco%20de%20Dados/1.PNG?raw=true"> <br>
+
+
   
 ## 🛠 Estrutura de pastas
 
