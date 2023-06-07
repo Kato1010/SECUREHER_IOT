@@ -41,7 +41,7 @@
 
 <p>  Através do gps o app pode gerar relatórios dos locais que tenha maior incidência de ocorrências, com a finalidade de ajudar a população evitando áreas de risco e auxiliar a polícia para reforçar a segurança desses locais. </p>
 
-### Sensores e Autuadores:  <br><br>
+### Sensores e Atuadores:  <br><br>
 <ul> 
     <li> Chave Táctil KFC-A06 - 6 X 6 X 4,3mm - 2 Terminais </li>
     <li> 2 Resistores 220Ω </li>
