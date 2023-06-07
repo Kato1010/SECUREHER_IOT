@@ -34,10 +34,10 @@
 <p> Um projeto voltado para o tema Igualdade de gênero (Objetivo de Desenvolvimento Sustentável nº 5 da ONU), a qual a mulher utilizará um dispositivo IoT vestível para sua segurança pessoal. </P>
 <p> Além disso, nosso projeto está alinhado ao 11º Objetivo de Desenvolvimento Sustentável – Cidades e Comunidades Sustentáveis, buscando criar um ambiente urbano seguro e inclusivo para as mulheres. Implementaremos medidas para prevenir e combater a violência nas cidades. </p>
 <p> Este objeto possuirá um <u>botão</u> que ao ser pressionado 3 vezes disparará uma mensagem de socorro em situações de perigo iminente. </P>
-<p> Será utilizado o GPS do próprio celular e quando disparado enviará uma notificação informando:  </p>
-<ul>
-<li> Contatos de emergência da mulher sobre o local e horário onde o botão foi pressionado, independente da distância. </li>
-</ul>
+<p> Será utilizado o GPS do próprio celular e quando disparado enviará uma notificação informando Contatos de emergência da mulher sobre o local e horário onde o botão foi pressionado, independente da distância.  </p>
+
+
+
 
 <p>  Através do gps o app pode gerar relatórios dos locais que tenha maior incidência de ocorrências, com a finalidade de ajudar a população evitando áreas de risco e auxiliar a polícia para reforçar a segurança desses locais. </p>
 
@@ -45,8 +45,8 @@
 <ul> 
     <li> Chave Táctil KFC-A06 - 6 X 6 X 4,3mm - 4 Terminais </li>
     <li> 2 Resistores 220Ω </li>
-    <li> 5 Jumpers macho/macho </li>
-    <li> 4 Jumpers fêmea </li>
+    <li> 2 Jumpers macho/macho </li>
+    <li> 4 Jumpers fêmea/fêmea </li>
     <li> 1 LED </li>
 </ul>
 
