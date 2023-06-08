@@ -40,7 +40,7 @@
 <p>Será utilizado o GPS do próprio celular e quando disparado enviará uma notificação informando <b>contatos de emergência da mulher sobre o local e horário sobre onde o botão foi pressionado, independente da distância</b>. </p>
 
  
-<p> Através do GPS o app pode gerar relatórios dos locais que tenha maior incidência de ocorrências, com a finalidade de ajudar a população evitando áreas de risco e auxiliar a polícia para reforçar a segurança desses locais. </p> <br>
+<p> Através do GPS o app pode gerar relatórios dos locais, por meio do banco de dados MySQL, que tenha maior incidência de ocorrências, com a finalidade de ajudar a população evitando áreas de risco e auxiliar a polícia para reforçar a segurança desses locais. </p> <br>
 
 ### Sensores e Atuadores:  <br>
 <ul> 
