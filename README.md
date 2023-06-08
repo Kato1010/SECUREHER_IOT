@@ -134,6 +134,7 @@
   &emsp;|-->Espaço reservado<br>
   &emsp;|-->Template ADS - Projeto de Extensão<br>
   |-->imagens<br>
+  &emsp;|-->APP<br>
     &emsp;|-->Banco de Dados<br>
    &emsp;|-->Logotipo<br>
   &emsp;|-->Modelagem Wokwi<br>
@@ -162,14 +163,17 @@
 
 ## 🛠 Instalação
 
-<b>Android:</b>
+<b>APENAS para Android:</b>
 
-Faça o Download do secureher.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
+Faça o Download do secureher.apk no seu celular. Execute o APK e siga as instruções de seu telefone.
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
+<a href="http://ai2.appinventor.mit.edu/b/3m1sm"> CLIQUE AQUI para baixar o app </a>
+
+<p> Ou escaneie o QR code do seu celular: </p> <br>
+
+<img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/APP/app.PNG?raw=true">
+
+
 
 <!-- 
               <b>Windows:</b>
