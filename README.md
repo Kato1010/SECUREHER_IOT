@@ -128,20 +128,21 @@
   
 ## 🛠 Estrutura de pastas
 
--Raiz<br>
+-Menu<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->imagens<br>
+  &emsp;|-->Espaço reservado<br>
+  &emsp;|-->Template ADS - Projeto de Extensão<br>
+  |-->imagens<br>
     &emsp;|-->Banco de Dados<br>
    &emsp;|-->Logotipo<br>
   &emsp;|-->Modelagem Wokwi<br>
-  &emsp;|-->Modelo 3d case<br>
+  &emsp;|-->Modelo 3d Case<br>
 |-->src<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Código Arduino ESP 32<br>
   &emsp;|-->Prototipagem 3d<br>
+  &emsp;|-->App: PI_SecureHer2_(1).aia<br>
 |README.md<br>
 
  <!--            A pasta raiz contem dois arquivos que devem ser alterados:
