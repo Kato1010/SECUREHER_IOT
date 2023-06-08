@@ -241,8 +241,8 @@ A cada atualização os detalhes devem ser lançados aqui.
 Aqui estão as referências usadas no projeto.
 
 1. <https://randomnerdtutorials.com/esp32-bluetooth-classic-arduino-ide/>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://www.canva.com/>
-4. <https://appinventor.mit.edu/>
+2. <https://www.canva.com/>
+3. <https://appinventor.mit.edu/>
+4. https://randomnerdtutorials.com/esp32-web-server-arduino-ide/
 5. <https://www.youtube.com/watch?v=UpZjOAwugBU&list=PLx4x_zx8csUjl2tMSl-Ml9HhzAis6iOLP&ab_channel=CFBCursos>
 6. <https://www.youtube.com/watch?v=BT4YihNXiYw&list=PL7sbjUYIdF3Ux_UrRiBaC73OrJLvLza4u&ab_channel=TheCodingBus>
