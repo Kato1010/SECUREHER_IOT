@@ -29,17 +29,20 @@
   Projeto Interdisciplinar IoT  <a href="https://secureher.tech/">
 </p>
 
-### Resumo do Projeto: <br><br>
+
+### Objetivos: <br>
  
-<p> Um projeto voltado para o <b>5º Objetivo da ONU(Igualdade de gênero)</b> e o <b>11º Objetivo(Cidades e Comunidades Sustentáveis)</b>, a qual a mulher utilizará um dispositivo IoT vestível para sua segurança pessoal e buscando criar um ambiente urbano seguro e inclusivo para as mulheres, implementando medidas para prevenir e combater a violência nas cidades.</p> <br>
+<p> Um projeto voltado para o <b>5º Objetivo da ONU (Igualdade de gênero)</b> e o <b>11º Objetivo (Cidades e Comunidades Sustentáveis)</b>, a qual a mulher utilizará um dispositivo IoT vestível para sua segurança pessoal afim de criar um ambiente urbano seguro e inclusivo para as mulheres e implementando medidas para prevenir e combater a violência nas cidades.</p> <br>
+
+### Resumo do Projeto: <br>
 
 <p> Este dispositivo vestível possuirá um botão que ao ser pressionado <b>3 vezes</b> disparará uma mensagem de socorro em situações de perigo iminente. </p>
 <p>Será utilizado o GPS do próprio celular e quando disparado enviará uma notificação informando <b>contatos de emergência da mulher sobre o local e horário sobre onde o botão foi pressionado, independente da distância</b>. </p>
 
  
-<p> Através do GPS o app pode gerar relatórios dos locais que tenha maior incidência de ocorrências, com a finalidade de ajudar a população evitando áreas de risco e auxiliar a polícia para reforçar a segurança desses locais. </p>
+<p> Através do GPS o app pode gerar relatórios dos locais que tenha maior incidência de ocorrências, com a finalidade de ajudar a população evitando áreas de risco e auxiliar a polícia para reforçar a segurança desses locais. </p> <br>
 
-### Sensores e Atuadores:  <br><br>
+### Sensores e Atuadores:  <br>
 <ul> 
     <li> Chave Táctil KFC-A06 - 6 X 6 X 4,3mm - 2 Terminais </li>
     <li> 2 Resistores 220Ω </li>
@@ -50,12 +53,12 @@
 
 <p> <a href="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/Modelagem%20Wokwi/esquema_secure_her.PNG" > Clique aqui para ver a modelagem do projeto </a> <p> <br>
   
-  ### Arduino:  <br><br>
+  ### Arduino:  <br>
   <p> Foi utilizado o microcontrolador ESP-32 WROOM-32D, pois foi necessária a utilização do bluetooth, junto com o app criado no MIT APP INVENTOR <p>
 
   <p> <a href="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/src/C%C3%B3digo%20Arduino%20ESP%2032/CODIGO_SECUREHER.ino" > Clique aqui para ver o código arduino programado em C++ </a> <p> <br><br>
     
-  ### MIT APP INVENTOR  <br><br>
+  ### MIT APP INVENTOR  <br>
     
   <p> O app foi criado do zero por meio do <a href="https://appinventor.mit.edu/">MIT APP INVENTOR</a> com 11 telas criadas para simular o mais próximo de um produto no mercado. As telas criadas são: </p>
     
@@ -77,7 +80,7 @@
   
  <a href="https://github.com/2023-1-NADS1/B02-SecureHer/tree/main/src/Backend"> Clique aqui e veja os scripts na linguagem PHP </a> <br><br>
   
-  ### Domínio e Hospedagem <br><br>
+  ### Domínio e Hospedagem <br>
   
   <p> Foram contratados uma hospedagem e um domínio para a facilitação do uso das ferrramentas entre os integrantes do grupo e tornar o projeto mais próximo possível de um produto no mercado. </p>
   <p> Para viabilizar financeiramente foram contratados um domínio de extensão .tech e uma hospedagem compartilhada. O domínio utilizado é o <a href="https://secureher.tech">secureher.tech</a>.
@@ -85,7 +88,7 @@
   
   <br><br>
   
-   ### Banco de Dados <br><br>
+   ### Banco de Dados <br>
     
    <p> Foram criadas duas tabelas denominadas CLIENTES e OCORRENCIA.</p>
    
@@ -100,8 +103,10 @@
   
   <p> Onde o IDOCORRENCIA foi utilizada como PRIMARY KEY da tabela. </p>
   <p> Além disso, colocamos que a FK_CLIENTES é a FOREIGN KEY, ligando as tabelas CLIENTES e OCORRENCIA por meio do CPF. </p> <br><br>
+  
+  
     
-   ### O Projeto na prática <br><br> 
+   ### O Projeto na prática <br>
    
    <p> Primeiro, com o ESP32 montado abrimos junto o APP e o conectamos com o dispositivo, e então acionamos o botão do pânico, apertando 3 vezes até o LED ficar acesso direto por 3 segundos. </p>
    
