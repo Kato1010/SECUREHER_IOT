@@ -82,7 +82,7 @@
   
   ### Domínio e Hospedagem <br>
   
-  <p> Foram contratados uma hospedagem e um domínio para a facilitação do uso das ferrramentas entre os integrantes do grupo e tornar o projeto mais próximo possível de um produto no mercado. </p>
+  <p> Foram contratados uma hospedagem e um domínio para a facilitação do uso das ferramentas entre os integrantes do grupo e tornar o projeto mais próximo possível de um produto no mercado. </p>
   <p> Para viabilizar financeiramente foram contratados um domínio de extensão .tech e uma hospedagem compartilhada. O domínio utilizado é o <a href="https://secureher.tech">secureher.tech</a>.
   <p> Com a hospedagem, foi possível a utilização de um banco de dados MySQL e todas as informações inseridas no app foram colocadas dentro deste banco. </p>
   
