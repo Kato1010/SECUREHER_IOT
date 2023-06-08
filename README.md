@@ -210,9 +210,9 @@ A cada atualização os detalhes devem ser lançados aqui.
     * Início: Dia que foi determinado o tema com o professor;
 * 0.2.0 - 20/04/2023
     * Estudos referente a programação em arduino
-    * ADD: Inicialmente no arduino
+    * Primeiros testes: Inicialmente no arduino
 * 0.1.1 - 25/04/2023
-    * Primeiros testes no Esp8266
+    * Testes utilizando o Esp8266
 * 0.1.0 - 29/04/2023
     * MUDANÇA: Troca do esp8266 pelo ESP32 (por causa do Bluetooth)
     * Compra do ESP32 e componentes;
