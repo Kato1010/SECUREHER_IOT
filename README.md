@@ -206,18 +206,31 @@ Coloque código do prompt de comnando se for necessário
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.2.1 - 25/01/2022
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
+* 0.2.1 - 14/04/2023
+    * Início: Dia que foi determinado o tema com o professor;
+* 0.2.0 - 20/04/2023
+    * Estudos referente a programação em arduino
+    * ADD: Inicialmente no arduino
+* 0.1.1 - 25/04/2023
+    * Primeiros testes no Esp8266
+* 0.1.0 - 29/04/2023
+    * MUDANÇA: Troca do esp8266 pelo ESP32 (por causa do Bluetooth)
+    * Compra do ESP32 e componentes;
+ * 0.0.1 - 08/05/2023
+    * Trabalho em andamento;
+    * Conclusão: Programação do ESP32.
+* 0.0.1 - 15/05/2023
     * Trabalho em andamento
+    * Estudos sobre a criação do App
+* 0.0.1 - 20/05/2023 - 29/05/2023
+    * Criação do App no App Inventor (Designer e programação em blocos);
+    * Trabalho em andamento.
+* 0.0.1 - 30/05/2023
+    * Case (capinha protetora) em andamento;
+    * App concluído.
+* 0.0.1 - 03/06/2023
+    * Últimos retoques
+    * Finalização
 
 ## 📋 Licença/License
 
