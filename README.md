@@ -124,7 +124,9 @@
 
  <img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/Banco%20de%20Dados/1.PNG?raw=true"> <br>
 
-<p>Video - O botão ao ser acionado, na prática enviando SMS e fazendo ligação automaticamente: </p> <br>
+
+<p>Video na prática: Ao acionar o botão, o contato de emergência é notificado via SMS e recebe uma ligação automaticamente. </p> <br>
+
 <img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/e244832d435b46adeb17e0fbe0ce43928137b9e6/imagens/Modelagem%20Wokwi/VideoNaPr%C3%A1tica_SMS_Liga%C3%A7%C3%A3o.gif"> <br>
   
 ## 🛠 Estrutura de pastas
