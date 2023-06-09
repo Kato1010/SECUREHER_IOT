@@ -125,6 +125,7 @@
  <img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/Banco%20de%20Dados/1.PNG?raw=true"> <br>
 
 
+
 <p>Video na prática: Ao acionar o botão, o contato de emergência é notificado via SMS e recebe uma ligação automaticamente. </p> <br>
 
 <img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/e244832d435b46adeb17e0fbe0ce43928137b9e6/imagens/Modelagem%20Wokwi/VideoNaPr%C3%A1tica_SMS_Liga%C3%A7%C3%A3o.gif"> <br>
@@ -174,7 +175,7 @@ Faça o Download do secureher.apk no seu celular. Execute o APK e siga as instru
 
 <p> Ou escaneie o QR code do seu celular: </p> <br>
 
-<img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/APP/app-qrcode1.PNG?raw=true">
+<img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/1fabd1d5f7f0f1adc59b5266ffc15e6335509eae/imagens/APP/App_QRCode.png">
 
 
 
