@@ -125,7 +125,7 @@
  <img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/Banco%20de%20Dados/1.PNG?raw=true"> <br>
 
 <p>Video - O botão ao ser acionado, na prática enviando SMS e fazendo ligação automaticamente: </p> <br>
-<img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/Modelagem%20Wokwi/VideoNaPr%C3%A1tica_SMS_Liga%C3%A7%C3%A3o.mov"> <br>
+<img src="https://github.com/2023-1-NADS1/B02-SecureHer/raw/main/imagens/Modelagem%20Wokwi/VideoNaPr%C3%A1tica_SMS_Liga%C3%A7%C3%A3o.mov"> <br>
   
 ## 🛠 Estrutura de pastas
 
