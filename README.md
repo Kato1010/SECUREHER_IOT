@@ -167,11 +167,11 @@
 
 Faça o Download do secureher.apk no seu celular. Execute o APK e siga as instruções de seu telefone.
 
-<a href="http://ai2.appinventor.mit.edu/b/28lta"> CLIQUE AQUI para baixar o app </a>
+<a href="http://ai2.appinventor.mit.edu/b/3033w"> CLIQUE AQUI para baixar o app </a>
 
 <p> Ou escaneie o QR code do seu celular: </p> <br>
 
-<img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/APP/app-qrcode.PNG?raw=true">
+<img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/APP/app-qrcode1.PNG?raw=true">
 
 
 
